@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /**
  * Student Name: PJ Neidlinger
  * Program Name: Checkers
@@ -7,9 +5,12 @@ import java.util.Scanner;
  * Last Modified Date: 4/19/2017
  * CSCI Course: CSCI 325
  * Grade Received: 100
- * Comments Regarding Design: This program has multiple classes that work together to create a game of checkers. 
+ * Comments Regarding Design: This program has multiple classes that work together to create a game of checkers.
  * This Main class creates the game loop and runs the game.
  */
+ 
+import java.util.Scanner;
+
 public class Main {
 
     public Main() {}

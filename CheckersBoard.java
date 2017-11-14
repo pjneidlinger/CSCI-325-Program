@@ -1,5 +1,12 @@
 /**
- * Created by zacke on 4/24/2017.
+ * Student Name: PJ Neidlinger
+ * Program Name: Checkers
+ * Creation Date: 4/17/2017
+ * Last Modified Date: 4/19/2017
+ * CSCI Course: CSCI 325
+ * Grade Received: 100
+ * Comments Regarding Design: This program has multiple classes that work together to create a game of checkers.
+ * This CheckersBoard class creates the board in which the game will be played, initializing the pieces also.
  */
 
 public class CheckersBoard {
